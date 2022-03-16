@@ -6,3 +6,4 @@ xcuserdata/
 .*.sw?
 /Benchmarks/.swiftpm
 /Benchmarks/.build
+vendor/
